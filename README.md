@@ -4,7 +4,7 @@ Just a practice for creating packages.
 
 # Installation 
 
-`npm i myFirstPackage --save`
+`npm i myfirstpackage199`
 
 Then...
 
